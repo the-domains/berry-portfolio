@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BERRY Portfolio]]></title>
         <description><![CDATA[BERRY Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/berry-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 08:31:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 08:45:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/berry-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50e495c9-a47f-402b-8cac-2c7a56fb7721.jpg">]]></description>
-            <link>undefineddc9b2354-a67c-46cc-a028-725c813dd9f3/index.html</link>
+            <title><![CDATA[Portfolio Test]]></title>
+            <description><![CDATA[<article><h1>Portfolio Test</h1><p>Folio</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50b2146da6c909308c6d25862b981227fd640b2e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/berry-portfolio/dc9b2354-a67c-46cc-a028-725c813dd9f3/index.html</link>
             <guid isPermaLink="false">dc9b2354-a67c-46cc-a028-725c813dd9f3</guid>
-            <pubDate>Sun, 17 Jan 2016 08:31:19 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 08:45:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
