@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BERRY Portfolio]]></title>
-        <description><![CDATA[BERRY Portfolio]]></description>
+        <title><![CDATA[Portfolio Berry]]></title>
+        <description><![CDATA[Portfolio Berry]]></description>
         <link>https://thegrid.ai/berry-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 08:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 09:04:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/berry-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bordel]]></title>
+            <description><![CDATA[<article><h1>Bordel</h1><p>C'est quoi ce bordel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc2b600c69c431d7540ef17becc3355b57df2487.jpg"></article>]]></description>
+            <link>https://thegrid.ai/berry-portfolio/bordel/index.html</link>
+            <guid isPermaLink="false">7ecaeaa0-0bbb-4527-b793-a53a0fee550c</guid>
+            <pubDate>Sun, 17 Jan 2016 09:03:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portfolio Test]]></title>
             <description><![CDATA[<article><h1>Portfolio Test</h1><p>Folio</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50b2146da6c909308c6d25862b981227fd640b2e.jpg"></article>]]></description>
