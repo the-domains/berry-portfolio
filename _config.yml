@@ -1,7 +1,7 @@
 name: BERRY Portfolio
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75727
+layout_spectrum: 0.75163
+typography_spectrum: 0.24924
 title: BËRRY - Subtiles confidences
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
+    - '#982069'
+    - '#800080'
+    - '#ff0000'
     - '#000000'
-    - '#c9cac4'
-    - '#37464b'
-    - '#55686e'
-  brandStrength: 0.8136825708206743
-  lightness: 0.5421808217652142
-  saturation: 0.3960030027665198
-  rhythmicContrast: 0.18779559736140072
+    - '#ff00ff'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
