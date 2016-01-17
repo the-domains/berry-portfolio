@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BËRRY - Subtiles confidences]]></title>
         <description><![CDATA[BËRRY - Subtiles confidences]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/berry-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 09:33:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 09:35:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/berry-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e365cf9d-acd4-47fa-9147-6f4be8a335c1.jpg">]]></description>
+            <link>https://thegrid.ai/berry-portfolio/6119849c-4066-4ec5-b1ab-dbcaaa8ff3a6/index.html</link>
+            <guid isPermaLink="false">6119849c-4066-4ec5-b1ab-dbcaaa8ff3a6</guid>
+            <pubDate>Sun, 17 Jan 2016 09:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7d6bae0-0201-43f8-a0fa-469a7a76bfa9.jpg">]]></description>
-            <link>undefined07a525bb-de32-4bea-adf7-253bce256c4f/index.html</link>
+            <link>https://thegrid.ai/berry-portfolio/07a525bb-de32-4bea-adf7-253bce256c4f/index.html</link>
             <guid isPermaLink="false">07a525bb-de32-4bea-adf7-253bce256c4f</guid>
             <pubDate>Sun, 17 Jan 2016 09:33:42 GMT</pubDate>
         </item>
