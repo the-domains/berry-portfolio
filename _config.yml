@@ -1,0 +1,28 @@
+name: BERRY Portfolio
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.75727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#000000'
+    - '#c9cac4'
+    - '#37464b'
+    - '#55686e'
+  brandStrength: 0.8136825708206743
+  lightness: 0.5421808217652142
+  saturation: 0.3960030027665198
+  rhythmicContrast: 0.18779559736140072
+purpose: []
