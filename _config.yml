@@ -2,6 +2,7 @@ name: BERRY Portfolio
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75727
+title: Portfolio Berry
 cta:
   domain: null
   bucket: null
