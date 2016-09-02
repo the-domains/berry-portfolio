@@ -1,20 +1,4 @@
-name: BËRRY - Subtiles confidences
-favicon: null
-layout_spectrum: 0.75163
 typography_spectrum: 0.00217
-title: BËRRY - Subtiles confidences
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fffaf6'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75163
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: BËRRY - Subtiles confidences
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Belly
+    id: 330f5dca-669b-4516-843a-09e1f49def13
+    type: content
+favicon: null
+title: BËRRY - Subtiles confidences
 purpose: []
